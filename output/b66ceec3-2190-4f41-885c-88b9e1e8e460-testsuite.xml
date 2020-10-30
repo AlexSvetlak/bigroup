@@ -1,0 +1,232 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1604046989084' stop='1604047005117'>
+    <name>Nova-city:</name>
+    <title>Nova-city:</title>
+    <test-cases>
+        <test-case start='1604046989084' status='passed' stop='1604047004971'>
+            <name>Фильтр. Объекты.</name>
+            <title>Фильтр. Объекты.</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1604046989540' status='passed' stop='1604046996122'>
+                    <name>I am on page "https://nova-city.kz/ru/filter?room_type=1"</name>
+                    <title>I am on page "https://nova-city.kz/ru/filter?room_type=1"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604046996122' status='passed' stop='1604046997132'>
+                    <name>I wait 1</name>
+                    <title>I wait 1</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604046997132' status='passed' stop='1604046997511'>
+                    <name>I click "a.style__CloseModalButton-sc-1c8jcy9-3.expMoC"</name>
+                    <title>I click "a.style__CloseModalButton-sc-1c8jcy9-3.expMoC"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604046997511' status='passed' stop='1604046997514'>
+                    <name>I see "Жилая недвижимость"</name>
+                    <title>I see "Жилая недвижимость"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604046997514' status='passed' stop='1604046997812'>
+                    <name>I click "div.react-select__value-container.css-1hwfws3"</name>
+                    <title>I click "div.react-select__value-container.css-1hwfws3"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604046997812' status='passed' stop='1604046998812'>
+                    <name>I wait 1</name>
+                    <title>I wait 1</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604046998812' status='passed' stop='1604046998938'>
+                    <name>I click "#react-select-real_estate_id-option-0"</name>
+                    <title>I click "#react-select-real_estate_id-option-0"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604046998938' status='passed' stop='1604046999169'>
+                    <name>I click "Показать варианты"</name>
+                    <title>I click "Показать варианты"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604046999169' status='passed' stop='1604047000258'>
+                    <name>I see "Sezim Qala", "h3"</name>
+                    <title>I see "Sezim Qala", "h3"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047000258' status='passed' stop='1604047000259'>
+                    <name>I dont see "Nova City на Рыскулбекова"</name>
+                    <title>I dont see "Nova City на Рыскулбекова"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047000259' status='passed' stop='1604047000261'>
+                    <name>I dont see "Nova City на Туране"</name>
+                    <title>I dont see "Nova City на Туране"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047000261' status='passed' stop='1604047000262'>
+                    <name>I dont see "Ару Қала"</name>
+                    <title>I dont see "Ару Қала"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047000262' status='passed' stop='1604047000475'>
+                    <name>I click "div.react-select__value-container.css-1hwfws3"</name>
+                    <title>I click "div.react-select__value-container.css-1hwfws3"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047000475' status='passed' stop='1604047001486'>
+                    <name>I wait 1</name>
+                    <title>I wait 1</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047001486' status='passed' stop='1604047001629'>
+                    <name>I click "#react-select-real_estate_id-option-1"</name>
+                    <title>I click "#react-select-real_estate_id-option-1"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047001629' status='passed' stop='1604047001833'>
+                    <name>I click "Показать варианты"</name>
+                    <title>I click "Показать варианты"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047001833' status='passed' stop='1604047001842'>
+                    <name>I dont see "Sezim Qala"</name>
+                    <title>I dont see "Sezim Qala"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047001842' status='passed' stop='1604047001844'>
+                    <name>I see "Nova City на Рыскулбекова"</name>
+                    <title>I see "Nova City на Рыскулбекова"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047001844' status='passed' stop='1604047001846'>
+                    <name>I dont see "Nova City на Туране"</name>
+                    <title>I dont see "Nova City на Туране"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047001846' status='passed' stop='1604047001847'>
+                    <name>I dont see "Ару Қала"</name>
+                    <title>I dont see "Ару Қала"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047001847' status='passed' stop='1604047002070'>
+                    <name>I click "div.react-select__value-container.css-1hwfws3"</name>
+                    <title>I click "div.react-select__value-container.css-1hwfws3"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047002070' status='passed' stop='1604047003075'>
+                    <name>I wait 1</name>
+                    <title>I wait 1</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047003075' status='passed' stop='1604047003201'>
+                    <name>I click "#react-select-real_estate_id-option-2"</name>
+                    <title>I click "#react-select-real_estate_id-option-2"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047003201' status='passed' stop='1604047003389'>
+                    <name>I click "Показать варианты"</name>
+                    <title>I click "Показать варианты"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047003389' status='passed' stop='1604047003391'>
+                    <name>I dont see "Sezim Qala"</name>
+                    <title>I dont see "Sezim Qala"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047003391' status='passed' stop='1604047003393'>
+                    <name>I dont see "Nova City на Рыскулбекова"</name>
+                    <title>I dont see "Nova City на Рыскулбекова"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047003393' status='passed' stop='1604047003394'>
+                    <name>I see "Nova City на Туране"</name>
+                    <title>I see "Nova City на Туране"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047003394' status='passed' stop='1604047003396'>
+                    <name>I dont see "Ару Қала"</name>
+                    <title>I dont see "Ару Қала"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047003396' status='passed' stop='1604047003627'>
+                    <name>I click "div.react-select__value-container.css-1hwfws3"</name>
+                    <title>I click "div.react-select__value-container.css-1hwfws3"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047003627' status='passed' stop='1604047004634'>
+                    <name>I wait 1</name>
+                    <title>I wait 1</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047004634' status='passed' stop='1604047004776'>
+                    <name>I click "#react-select-real_estate_id-option-3"</name>
+                    <title>I click "#react-select-real_estate_id-option-3"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047004776' status='passed' stop='1604047004963'>
+                    <name>I click "Показать варианты"</name>
+                    <title>I click "Показать варианты"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047004963' status='passed' stop='1604047004965'>
+                    <name>I dont see "Sezim Qala"</name>
+                    <title>I dont see "Sezim Qala"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047004965' status='passed' stop='1604047004966'>
+                    <name>I dont see "Nova City на Рыскулбекова"</name>
+                    <title>I dont see "Nova City на Рыскулбекова"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047004967' status='passed' stop='1604047004969'>
+                    <name>I dont see "Nova City на Туране"</name>
+                    <title>I dont see "Nova City на Туране"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047004969' status='passed' stop='1604047004971'>
+                    <name>I see "Ару Қала"</name>
+                    <title>I see "Ару Қала"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

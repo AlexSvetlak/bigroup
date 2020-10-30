@@ -1,0 +1,159 @@
+{
+  "uid" : "a0cfe8269565bc76",
+  "name" : "Фильтр. Районы.",
+  "fullName" : "Nova-city:.Фильтр. Районы.",
+  "historyId" : "bcc4ee2b6d675cd58b77f9c3d30bf062",
+  "time" : {
+    "start" : 1604047584872,
+    "stop" : 1604047597010,
+    "duration" : 12138
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "I am on page \"https://nova-city.kz/ru/filter?room_type=1\"",
+      "time" : {
+        "start" : 1604047585299,
+        "stop" : 1604047595297,
+        "duration" : 9998
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I wait 1",
+      "time" : {
+        "start" : 1604047595297,
+        "stop" : 1604047596303,
+        "duration" : 1006
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I click \"a.style__CloseModalButton-sc-1c8jcy9-3.expMoC\"",
+      "time" : {
+        "start" : 1604047596303,
+        "stop" : 1604047596630,
+        "duration" : 327
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I see \"Жилая недвижимость\"",
+      "time" : {
+        "start" : 1604047596630,
+        "stop" : 1604047596633,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I click \"div.react-select__value-container.css-1hwfws3\"",
+      "time" : {
+        "start" : 1604047596634,
+        "stop" : 1604047597006,
+        "duration" : 372
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I see \"Алматы\"",
+      "time" : {
+        "start" : 1604047597006,
+        "stop" : 1604047597008,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I see \"Есиль\"",
+      "time" : {
+        "start" : 1604047597008,
+        "stop" : 1604047597010,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 7,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Nova-city:"
+  }, {
+    "name" : "testClass",
+    "value" : "Nova-city:"
+  }, {
+    "name" : "testMethod",
+    "value" : "Фильтр. Районы."
+  }, {
+    "name" : "package",
+    "value" : "Nova-city:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a0cfe8269565bc76.json",
+  "parameterValues" : [ ]
+}

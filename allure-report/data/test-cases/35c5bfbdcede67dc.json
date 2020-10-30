@@ -1,0 +1,249 @@
+{
+  "uid" : "35c5bfbdcede67dc",
+  "name" : "Фильтр. Квадратура.",
+  "fullName" : "Nova-city:.Фильтр. Квадратура.",
+  "historyId" : "3cffc52d533211589c022aec1230adb0",
+  "time" : {
+    "start" : 1604046972713,
+    "stop" : 1604046988932,
+    "duration" : 16219
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "I am on page \"https://nova-city.kz/ru/filter?room_type=1\"",
+      "time" : {
+        "start" : 1604046973169,
+        "stop" : 1604046979185,
+        "duration" : 6016
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I wait 2",
+      "time" : {
+        "start" : 1604046979185,
+        "stop" : 1604046981200,
+        "duration" : 2015
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I click \"a.style__CloseModalButton-sc-1c8jcy9-3.expMoC\"",
+      "time" : {
+        "start" : 1604046981200,
+        "stop" : 1604046981577,
+        "duration" : 377
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I wait 2",
+      "time" : {
+        "start" : 1604046981577,
+        "stop" : 1604046983588,
+        "duration" : 2011
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I see \"Жилая недвижимость\"",
+      "time" : {
+        "start" : 1604046983588,
+        "stop" : 1604046983591,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I fill field {\"name\":\"square_from\"}, \"50\"",
+      "time" : {
+        "start" : 1604046983591,
+        "stop" : 1604046983776,
+        "duration" : 185
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I fill field {\"name\":\"square_to\"}, \"120\"",
+      "time" : {
+        "start" : 1604046983776,
+        "stop" : 1604046983980,
+        "duration" : 204
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I wait 2",
+      "time" : {
+        "start" : 1604046983980,
+        "stop" : 1604046985982,
+        "duration" : 2002
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I click \"Показать варианты\"",
+      "time" : {
+        "start" : 1604046985982,
+        "stop" : 1604046986213,
+        "duration" : 231
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I see \"Жилая недвижимость\"",
+      "time" : {
+        "start" : 1604046986213,
+        "stop" : 1604046986215,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I click \"button.styles__ButtonStyle-er4vjq-0.keCPlR\"",
+      "time" : {
+        "start" : 1604046986215,
+        "stop" : 1604046987843,
+        "duration" : 1628
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I see \"Список\"",
+      "time" : {
+        "start" : 1604046987843,
+        "stop" : 1604046988930,
+        "duration" : 1087
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I see \"Шахматка\"",
+      "time" : {
+        "start" : 1604046988930,
+        "stop" : 1604046988932,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 13,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Nova-city:"
+  }, {
+    "name" : "testClass",
+    "value" : "Nova-city:"
+  }, {
+    "name" : "testMethod",
+    "value" : "Фильтр. Квадратура."
+  }, {
+    "name" : "package",
+    "value" : "Nova-city:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "35c5bfbdcede67dc.json",
+  "parameterValues" : [ ]
+}

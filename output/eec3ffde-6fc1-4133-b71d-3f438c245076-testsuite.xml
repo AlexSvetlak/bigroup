@@ -1,0 +1,88 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1604047035543' stop='1604047052992'>
+    <name>Nova-city:</name>
+    <title>Nova-city:</title>
+    <test-cases>
+        <test-case start='1604047035543' status='passed' stop='1604047052838'>
+            <name>Главная</name>
+            <title>Главная</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1604047035994' status='passed' stop='1604047045947'>
+                    <name>I am on page "nova-city.kz"</name>
+                    <title>I am on page "nova-city.kz"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047045947' status='passed' stop='1604047046416'>
+                    <name>I click "a.style__CloseModalButton-sc-1c8jcy9-3.expMoC"</name>
+                    <title>I click "a.style__CloseModalButton-sc-1c8jcy9-3.expMoC"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047046416' status='passed' stop='1604047048430'>
+                    <name>I wait 2</name>
+                    <title>I wait 2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047048430' status='passed' stop='1604047048433'>
+                    <name>I see "Показать варианты"</name>
+                    <title>I see "Показать варианты"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047048433' status='passed' stop='1604047048586'>
+                    <name>I click "Показать варианты"</name>
+                    <title>I click "Показать варианты"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047048586' status='passed' stop='1604047050599'>
+                    <name>I wait 2</name>
+                    <title>I wait 2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047050599' status='passed' stop='1604047050603'>
+                    <name>I see "Жилая недвижимость", "h1"</name>
+                    <title>I see "Жилая недвижимость", "h1"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047050603' status='passed' stop='1604047050820'>
+                    <name>I click "div.react-select__value-container.css-1hwfws3"</name>
+                    <title>I click "div.react-select__value-container.css-1hwfws3"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047050820' status='passed' stop='1604047052833'>
+                    <name>I wait 2</name>
+                    <title>I wait 2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047052833' status='passed' stop='1604047052835'>
+                    <name>I see "Sezim Qala"</name>
+                    <title>I see "Sezim Qala"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047052835' status='passed' stop='1604047052837'>
+                    <name>I see "Nova City на Рыскулбекова"</name>
+                    <title>I see "Nova City на Рыскулбекова"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047052837' status='passed' stop='1604047052838'>
+                    <name>I see "Nova City на Туране"</name>
+                    <title>I see "Nova City на Туране"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

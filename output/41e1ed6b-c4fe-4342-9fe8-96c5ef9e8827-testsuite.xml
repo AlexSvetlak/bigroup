@@ -1,0 +1,58 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1604049105567' stop='1604049115822'>
+    <name>Nova-city:</name>
+    <title>Nova-city:</title>
+    <test-cases>
+        <test-case start='1604049105568' status='passed' stop='1604049115668'>
+            <name>Фильтр. Районы.</name>
+            <title>Фильтр. Районы.</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1604049106008' status='passed' stop='1604049113944'>
+                    <name>I am on page "https://nova-city.kz/ru/filter?room_type=1"</name>
+                    <title>I am on page "https://nova-city.kz/ru/filter?room_type=1"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049113944' status='passed' stop='1604049114957'>
+                    <name>I wait 1</name>
+                    <title>I wait 1</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049114957' status='passed' stop='1604049115332'>
+                    <name>I click "a.style__CloseModalButton-sc-1c8jcy9-3.expMoC"</name>
+                    <title>I click "a.style__CloseModalButton-sc-1c8jcy9-3.expMoC"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049115332' status='passed' stop='1604049115335'>
+                    <name>I see "Жилая недвижимость"</name>
+                    <title>I see "Жилая недвижимость"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049115335' status='passed' stop='1604049115663'>
+                    <name>I click "div.react-select__value-container.css-1hwfws3"</name>
+                    <title>I click "div.react-select__value-container.css-1hwfws3"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049115663' status='passed' stop='1604049115665'>
+                    <name>I see "Алматы"</name>
+                    <title>I see "Алматы"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049115665' status='passed' stop='1604049115668'>
+                    <name>I see "Есиль"</name>
+                    <title>I see "Есиль"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

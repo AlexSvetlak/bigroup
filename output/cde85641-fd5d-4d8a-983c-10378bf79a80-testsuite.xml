@@ -1,0 +1,36 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1604046692707' stop='1604046695429'>
+    <name>Главная:</name>
+    <title>Главная:</title>
+    <test-cases>
+        <test-case start='1604046692707' status='failed' stop='1604046695273'>
+            <name>Фильтр. количество комнат</name>
+            <title>Фильтр. количество комнат</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1604046693401' status='failed' stop='1604046695271'>
+                    <name>I am on page "nova-city.kz"</name>
+                    <title>I am on page "nova-city.kz"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>Navigation failed because browser has disconnected!</message>
+                <stack-trace>Error: Navigation failed because browser has disconnected!
+                    at C:\Users\TH105\node_modules\puppeteer\lib\cjs\puppeteer\common\LifecycleWatcher.js:51:147
+                    at C:\Users\TH105\node_modules\puppeteer\lib\cjs\vendor\mitt\src\index.js:51:62
+                    at Array.map (&lt;anonymous>)
+                    at Object.emit (C:\Users\TH105\node_modules\puppeteer\lib\cjs\vendor\mitt\src\index.js:51:43)
+                    at CDPSession.emit (C:\Users\TH105\node_modules\puppeteer\lib\cjs\puppeteer\common\EventEmitter.js:72:22)
+                    at CDPSession._onClosed (C:\Users\TH105\node_modules\puppeteer\lib\cjs\puppeteer\common\Connection.js:247:14)
+                    at Connection._onMessage (C:\Users\TH105\node_modules\puppeteer\lib\cjs\puppeteer\common\Connection.js:94:25)
+                    at WebSocket.&lt;anonymous> (C:\Users\TH105\node_modules\puppeteer\lib\cjs\puppeteer\common\WebSocketTransport.js:13:32)
+                    at WebSocket.onMessage (C:\Users\TH105\node_modules\ws\lib\event-target.js:120:16)
+                    at WebSocket.emit (events.js:315:20)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

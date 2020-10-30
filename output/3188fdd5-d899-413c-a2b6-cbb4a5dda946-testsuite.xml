@@ -1,0 +1,160 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1604048990083' stop='1604049016737'>
+    <name>Nova-city:</name>
+    <title>Nova-city:</title>
+    <test-cases>
+        <test-case start='1604048990084' status='passed' stop='1604049016585'>
+            <name>Фильтр. Год.</name>
+            <title>Фильтр. Год.</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1604048990578' status='passed' stop='1604049001699'>
+                    <name>I am on page "https://nova-city.kz/ru/filter?room_type=1"</name>
+                    <title>I am on page "https://nova-city.kz/ru/filter?room_type=1"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049001699' status='passed' stop='1604049003707'>
+                    <name>I wait 2</name>
+                    <title>I wait 2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049003707' status='passed' stop='1604049004040'>
+                    <name>I click "a.style__CloseModalButton-sc-1c8jcy9-3.expMoC"</name>
+                    <title>I click "a.style__CloseModalButton-sc-1c8jcy9-3.expMoC"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049004040' status='passed' stop='1604049006054'>
+                    <name>I wait 2</name>
+                    <title>I wait 2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049006054' status='passed' stop='1604049006057'>
+                    <name>I see "Жилая недвижимость"</name>
+                    <title>I see "Жилая недвижимость"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049006057' status='passed' stop='1604049006352'>
+                    <name>I click "2020"</name>
+                    <title>I click "2020"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049006353' status='passed' stop='1604049008355'>
+                    <name>I wait 2</name>
+                    <title>I wait 2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049008355' status='passed' stop='1604049008589'>
+                    <name>I click "Показать варианты"</name>
+                    <title>I click "Показать варианты"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049008589' status='passed' stop='1604049008591'>
+                    <name>I see "Жилая недвижимость"</name>
+                    <title>I see "Жилая недвижимость"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049008591' status='passed' stop='1604049010166'>
+                    <name>I click "button.styles__ButtonStyle-er4vjq-0.keCPlR"</name>
+                    <title>I click "button.styles__ButtonStyle-er4vjq-0.keCPlR"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049010166' status='passed' stop='1604049011287'>
+                    <name>I see "Список"</name>
+                    <title>I see "Список"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049011288' status='passed' stop='1604049011310'>
+                    <name>I see "Шахматка"</name>
+                    <title>I see "Шахматка"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049011310' status='passed' stop='1604049011536'>
+                    <name>I click "Сбросить фильтр"</name>
+                    <title>I click "Сбросить фильтр"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049011536' status='passed' stop='1604049011741'>
+                    <name>I click "2021"</name>
+                    <title>I click "2021"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049011741' status='passed' stop='1604049013745'>
+                    <name>I wait 2</name>
+                    <title>I wait 2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049013745' status='passed' stop='1604049013933'>
+                    <name>I click "Показать варианты"</name>
+                    <title>I click "Показать варианты"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049013933' status='passed' stop='1604049013936'>
+                    <name>I see "Список"</name>
+                    <title>I see "Список"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049013936' status='passed' stop='1604049013939'>
+                    <name>I see "Шахматка"</name>
+                    <title>I see "Шахматка"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049013939' status='passed' stop='1604049014135'>
+                    <name>I click "Сбросить фильтр"</name>
+                    <title>I click "Сбросить фильтр"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049014135' status='passed' stop='1604049014384'>
+                    <name>I click "2022+"</name>
+                    <title>I click "2022+"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049014384' status='passed' stop='1604049016393'>
+                    <name>I wait 2</name>
+                    <title>I wait 2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049016393' status='passed' stop='1604049016581'>
+                    <name>I click "Показать варианты"</name>
+                    <title>I click "Показать варианты"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049016581' status='passed' stop='1604049016583'>
+                    <name>I see "Список"</name>
+                    <title>I see "Список"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604049016583' status='passed' stop='1604049016585'>
+                    <name>I see "Шахматка"</name>
+                    <title>I see "Шахматка"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,94 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1604047536048' stop='1604047554171'>
+    <name>Nova-city:</name>
+    <title>Nova-city:</title>
+    <test-cases>
+        <test-case start='1604047536048' status='passed' stop='1604047554020'>
+            <name>Фильтр. Квадратура.</name>
+            <title>Фильтр. Квадратура.</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1604047536704' status='passed' stop='1604047544829'>
+                    <name>I am on page "https://nova-city.kz/ru/filter?room_type=1"</name>
+                    <title>I am on page "https://nova-city.kz/ru/filter?room_type=1"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047544829' status='passed' stop='1604047546840'>
+                    <name>I wait 2</name>
+                    <title>I wait 2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047546840' status='passed' stop='1604047547187'>
+                    <name>I click "a.style__CloseModalButton-sc-1c8jcy9-3.expMoC"</name>
+                    <title>I click "a.style__CloseModalButton-sc-1c8jcy9-3.expMoC"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047547187' status='passed' stop='1604047549188'>
+                    <name>I wait 2</name>
+                    <title>I wait 2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047549188' status='passed' stop='1604047549190'>
+                    <name>I see "Жилая недвижимость"</name>
+                    <title>I see "Жилая недвижимость"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047549190' status='passed' stop='1604047549362'>
+                    <name>I fill field {"name":"square_from"}, "50"</name>
+                    <title>I fill field {"name":"square_from"}, "50"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047549362' status='passed' stop='1604047549568'>
+                    <name>I fill field {"name":"square_to"}, "120"</name>
+                    <title>I fill field {"name":"square_to"}, "120"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047549568' status='passed' stop='1604047551580'>
+                    <name>I wait 2</name>
+                    <title>I wait 2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047551580' status='passed' stop='1604047551801'>
+                    <name>I click "Показать варианты"</name>
+                    <title>I click "Показать варианты"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047551801' status='passed' stop='1604047551803'>
+                    <name>I see "Жилая недвижимость"</name>
+                    <title>I see "Жилая недвижимость"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047551803' status='passed' stop='1604047552935'>
+                    <name>I click "button.styles__ButtonStyle-er4vjq-0.keCPlR"</name>
+                    <title>I click "button.styles__ButtonStyle-er4vjq-0.keCPlR"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047552935' status='passed' stop='1604047554017'>
+                    <name>I see "Список"</name>
+                    <title>I see "Список"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1604047554017' status='passed' stop='1604047554020'>
+                    <name>I see "Шахматка"</name>
+                    <title>I see "Шахматка"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

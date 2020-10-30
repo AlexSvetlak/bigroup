@@ -1,0 +1,39 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Navigation failed because browser has disconnected!",
+      "children" : [ {
+        "name" : "Фильтр. количество комнат",
+        "uid" : "5c2a41a4c7ce4463",
+        "parentUid" : "223f77c1b6aba20cf39923f5740c08b5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604046692707,
+          "stop" : 1604046695273,
+          "duration" : 2566
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Фильтр. Квадратура.",
+        "uid" : "6f1f225cf8167672",
+        "parentUid" : "223f77c1b6aba20cf39923f5740c08b5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604046695431,
+          "stop" : 1604046696990,
+          "duration" : 1559
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "223f77c1b6aba20cf39923f5740c08b5"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

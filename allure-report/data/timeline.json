@@ -1,0 +1,369 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Фильтр. Год.",
+    "uid" : "277b700a44d2b8e7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604048502699,
+      "stop" : 1604048523051,
+      "duration" : 20352
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. Объекты.",
+    "uid" : "375a5c8d14569a71",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604046989084,
+      "stop" : 1604047004971,
+      "duration" : 15887
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. Этаж.",
+    "uid" : "b81ce126b9879946",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604046644130,
+      "stop" : 1604046667091,
+      "duration" : 22961
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. количество комнат",
+    "uid" : "5c2a41a4c7ce4463",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604046692707,
+      "stop" : 1604046695273,
+      "duration" : 2566
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. Районы.",
+    "uid" : "a0cfe8269565bc76",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604047584872,
+      "stop" : 1604047597010,
+      "duration" : 12138
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. Год.",
+    "uid" : "23b608a0607dc332",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604047479955,
+      "stop" : 1604047501961,
+      "duration" : 22006
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. Цена.",
+    "uid" : "b30ba728252b4c1a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604047005124,
+      "stop" : 1604047022604,
+      "duration" : 17480
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. Этаж.",
+    "uid" : "4daed64c56dcfc8c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604046909611,
+      "stop" : 1604046935423,
+      "duration" : 25812
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. Квадратура.",
+    "uid" : "35c5bfbdcede67dc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604046972713,
+      "stop" : 1604046988932,
+      "duration" : 16219
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. Этаж.",
+    "uid" : "932fb4b32ddb24c4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604046667297,
+      "stop" : 1604046692535,
+      "duration" : 25238
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. Этаж.",
+    "uid" : "2ad5b906a76626af",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604047461365,
+      "stop" : 1604047479789,
+      "duration" : 18424
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Главная",
+    "uid" : "de775999958e6e05",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604047035543,
+      "stop" : 1604047052838,
+      "duration" : 17295
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. Цена.",
+    "uid" : "852ff6406bad2b72",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604047568712,
+      "stop" : 1604047584721,
+      "duration" : 16009
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. Объекты.",
+    "uid" : "887de5c76d350c45",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604047554175,
+      "stop" : 1604047568555,
+      "duration" : 14380
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. Цена.",
+    "uid" : "425e77c5cb68635",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604048585114,
+      "stop" : 1604048603599,
+      "duration" : 18485
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. Районы.",
+    "uid" : "e510a13363b4116c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604048603751,
+      "stop" : 1604048611110,
+      "duration" : 7359
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. Квадратура.",
+    "uid" : "bc2da31832936fc3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604048553418,
+      "stop" : 1604048569918,
+      "duration" : 16500
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. Этаж.",
+    "uid" : "63a09b00e48cd30",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604048478511,
+      "stop" : 1604048502532,
+      "duration" : 24021
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. количество комнат",
+    "uid" : "93f017011964ea0e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604048523212,
+      "stop" : 1604048553261,
+      "duration" : 30049
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Главная",
+    "uid" : "417345a2e6b9522b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604048611248,
+      "stop" : 1604048625691,
+      "duration" : 14443
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. Квадратура.",
+    "uid" : "5a8ddf3f4d6e63e0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604047536048,
+      "stop" : 1604047554020,
+      "duration" : 17972
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. Объекты.",
+    "uid" : "5ced0f1001791834",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604048570074,
+      "stop" : 1604048584956,
+      "duration" : 14882
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. количество комнат",
+    "uid" : "6e473fb5ede2b237",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604047502123,
+      "stop" : 1604047535888,
+      "duration" : 33765
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. Квадратура.",
+    "uid" : "6f1f225cf8167672",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604046695431,
+      "stop" : 1604046696990,
+      "duration" : 1559
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Главная",
+    "uid" : "55d657ddfe64ebb7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604047597167,
+      "stop" : 1604047612932,
+      "duration" : 15765
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. Районы.",
+    "uid" : "bef1c95a25ad3f7a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604047022751,
+      "stop" : 1604047035319,
+      "duration" : 12568
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. количество комнат",
+    "uid" : "c79e80a2a68a97bf",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604046935567,
+      "stop" : 1604046972553,
+      "duration" : 36986
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Фильтр. Этаж.",
+    "uid" : "1ec565883f3fad6f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604046881402,
+      "stop" : 1604046909450,
+      "duration" : 28048
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

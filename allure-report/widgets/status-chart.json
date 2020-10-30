@@ -1,0 +1,111 @@
+[ {
+  "uid" : "63a09b00e48cd30",
+  "name" : "Фильтр. Этаж.",
+  "time" : {
+    "start" : 1604048478511,
+    "stop" : 1604048502532,
+    "duration" : 24021
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "93f017011964ea0e",
+  "name" : "Фильтр. количество комнат",
+  "time" : {
+    "start" : 1604048523212,
+    "stop" : 1604048553261,
+    "duration" : 30049
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c2a41a4c7ce4463",
+  "name" : "Фильтр. количество комнат",
+  "time" : {
+    "start" : 1604046692707,
+    "stop" : 1604046695273,
+    "duration" : 2566
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "932fb4b32ddb24c4",
+  "name" : "Фильтр. Этаж.",
+  "time" : {
+    "start" : 1604046667297,
+    "stop" : 1604046692535,
+    "duration" : 25238
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e510a13363b4116c",
+  "name" : "Фильтр. Районы.",
+  "time" : {
+    "start" : 1604048603751,
+    "stop" : 1604048611110,
+    "duration" : 7359
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "425e77c5cb68635",
+  "name" : "Фильтр. Цена.",
+  "time" : {
+    "start" : 1604048585114,
+    "stop" : 1604048603599,
+    "duration" : 18485
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "277b700a44d2b8e7",
+  "name" : "Фильтр. Год.",
+  "time" : {
+    "start" : 1604048502699,
+    "stop" : 1604048523051,
+    "duration" : 20352
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ced0f1001791834",
+  "name" : "Фильтр. Объекты.",
+  "time" : {
+    "start" : 1604048570074,
+    "stop" : 1604048584956,
+    "duration" : 14882
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f1f225cf8167672",
+  "name" : "Фильтр. Квадратура.",
+  "time" : {
+    "start" : 1604046695431,
+    "stop" : 1604046696990,
+    "duration" : 1559
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "417345a2e6b9522b",
+  "name" : "Главная",
+  "time" : {
+    "start" : 1604048611248,
+    "stop" : 1604048625691,
+    "duration" : 14443
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc2da31832936fc3",
+  "name" : "Фильтр. Квадратура.",
+  "time" : {
+    "start" : 1604048553418,
+    "stop" : 1604048569918,
+    "duration" : 16500
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
